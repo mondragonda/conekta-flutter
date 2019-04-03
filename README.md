@@ -16,3 +16,6 @@ Having said that these are the requirements:
    - [device_info](https://pub.dartlang.org/packages/device_info)
    - [http](https://pub.dartlang.org/packages/http)
 2. I created an `PaymentMethod` class to encapsulate all the properties of a payment method sent to the Conekta API. Feel free to provide your own implementation or pass just only a `Map<String, String>` to the `tokenizePaymentMethod()` and do the little neccesary modifications.
+
+
+It would be nice if you can contribute to create a flutter external plugin with this.
